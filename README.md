@@ -1,2 +1,99 @@
-# DirecToPeer-privacy-policy
-DirecToPeer Privacy Policy
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Privacy Policy - DirecToPeer</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            max-width: 800px;
+
+            margin: auto;
+
+            padding: 20px;
+
+            line-height: 1.6;
+
+        }
+
+        h1, h2 {
+
+            color: #222;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<h1>Privacy Policy for DirecToPeer Chat</h1>
+
+<p><strong>Last updated:</strong> June 5, 2026</p>
+
+<h2>1. Overview</h2>
+
+<p>DirecToPeer Chat is an offline communication application that enables one-to-one (1v1) messaging, voice calls, and file transfer using Wi-Fi Direct technology.</p>
+
+<p>This app works without internet, mobile data, or external servers.</p>
+
+<h2>2. Data Collection and Storage</h2>
+
+<ul>
+
+    <li>The app does not collect or transmit personal data to external servers.</li>
+
+    <li>All communication happens directly between devices.</li>
+
+    <li>Chat history is stored locally on the user’s device only.</li>
+
+</ul>
+
+<h2>3. Data Sharing</h2>
+
+<p>No user data is shared with third parties. Communication is strictly peer-to-peer.</p>
+
+<h2>4. Permissions Used</h2>
+
+<ul>
+
+    <li>Microphone – for voice calls</li>
+
+    <li>Storage/Media – for file transfer</li>
+
+    <li>Nearby Wi-Fi / Wi-Fi Direct – for device connection</li>
+
+</ul>
+
+<h2>5. Internet Usage</h2>
+
+<p>This app does not require internet or cellular data for its core functions.</p>
+
+<h2>6. Security</h2>
+
+<p>Communication is encrypted during transmission. Security also depends on proper device usage and environment.</p>
+
+<h2>7. Children's Privacy</h2>
+
+<p>This app does not specifically target children under 13. No personal data is collected.</p>
+
+<h2>8. Changes</h2>
+
+<p>This policy may be updated in future versions of the app.</p>
+
+<h2>9. Contact</h2>
+
+<p>For questions, contact the developer through the app store listing support email.</p>
+
+</body>
+
+</html>
